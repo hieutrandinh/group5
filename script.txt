@@ -1,0 +1,11 @@
+làm slide bằng slidev: animation/interaction
+
+Hình thức trình bày: 45 phút, 4 người thay nhau thuyết trình, cần có script để thuyết trình đọc cho từng slide
+
+1. Giới thiệu LSTM, giải thích nó là RNN, có hình vẽ quan hệ LSTM với RNN, CNN, MLP
+
+số n?: animation/interaction hiện LSTM tính toán thế nào trong 3 gates
+
+số m?: Có so sánh giữa LSTM và RNN trên cùng bộ dữ liệu
+
+video LSTML: https://www.youtube.com/watch?v=YCzL96nL7j0 (sẽ cần gửi claude cả khoảng thời gian [begin, end])
